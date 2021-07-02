@@ -1,9 +1,0 @@
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.deps.json
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.dll
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.pdb
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\obj\Debug\netcoreapp3.1\Practice.Architecture.Models.csprojAssemblyReference.cache
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\obj\Debug\netcoreapp3.1\Practice.Architecture.Models.AssemblyInfoInputs.cache
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\obj\Debug\netcoreapp3.1\Practice.Architecture.Models.AssemblyInfo.cs
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\obj\Debug\netcoreapp3.1\Practice.Architecture.Models.csproj.CoreCompileInputs.cache
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\obj\Debug\netcoreapp3.1\Practice.Architecture.Models.dll
-E:\Workspace\Practice.Architecture\Practice.Architecture.Models\obj\Debug\netcoreapp3.1\Practice.Architecture.Models.pdb
