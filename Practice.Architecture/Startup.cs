@@ -30,9 +30,9 @@ namespace Practice.Architecture
             services.AddPersistenceServices();
 
             services.AddSwaggerGen( c => {
-                c.SwaggerDoc("vVersion", new Microsoft.OpenApi.Models.OpenApiInfo
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
                 {
-                    Version = "vVersion",
+                    Version = "v1",
                     Title = "Practice architecture",
                     Description = "Api Practice architecture"
                 });
@@ -54,6 +54,12 @@ namespace Practice.Architecture
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Practice architecture");
             });
         }
     }

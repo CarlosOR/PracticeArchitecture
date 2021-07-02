@@ -17,6 +17,7 @@ namespace Practice.Architecture.Domain.Employes
         {
             _repoEmployee = repository;
             _unitOfWork = unitOfWork;
+            _userDomainService = userDomainService;
         }
 
         public Employee GetEmployeeById(int id)

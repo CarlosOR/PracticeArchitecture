@@ -26,7 +26,7 @@ namespace Practice.Architecture.Controllers
         }
         
         [HttpPost]
-        [Route(nameof(EmployeeController.Save) + "/{id}")]
+        [Route(nameof(EmployeeController.Save))]
         public ActionResult Save(DtoDataEmployee dataEmployee)
         {
             return Ok(_employeeService.SaveEmployee(dataEmployee));
