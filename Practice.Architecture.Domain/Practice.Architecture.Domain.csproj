@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Practice.Architecture.Domain.Interfaces\Practice.Architecture.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Practice.Architecture.Models\Practice.Architecture.Models.csproj" />
+    <ProjectReference Include="..\Practice.Architecture.Persistence.Interfaces\Practice.Architecture.Persistence.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

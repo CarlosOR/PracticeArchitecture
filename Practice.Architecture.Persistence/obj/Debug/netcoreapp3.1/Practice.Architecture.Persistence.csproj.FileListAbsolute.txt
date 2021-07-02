@@ -1,0 +1,14 @@
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Persistence.Interfaces.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.csprojAssemblyReference.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.AssemblyInfoInputs.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.AssemblyInfo.cs
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Persistence.deps.json
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Persistence.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Persistence.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\bin\Debug\netcoreapp3.1\Practice.Architecture.Persistence.Interfaces.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.csproj.CoreCompileInputs.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.csproj.CopyComplete
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence\obj\Debug\netcoreapp3.1\Practice.Architecture.Persistence.pdb

@@ -1,0 +1,9 @@
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\bin\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.deps.json
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\bin\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\bin\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\obj\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.csprojAssemblyReference.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\obj\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.AssemblyInfoInputs.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\obj\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.AssemblyInfo.cs
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\obj\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.csproj.CoreCompileInputs.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\obj\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Persistence.Interfaces\obj\Debug\netstandard2.0\Practice.Architecture.Persistence.Interfaces.pdb

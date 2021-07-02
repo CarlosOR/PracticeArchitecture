@@ -1,0 +1,60 @@
+using Practice.Resolver.Domain;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+using Practice.Resolver.Application;
+using Practice.Resolver.Persistence;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Practice.Architecture.Persistence.Context;
+
+namespace Practice.Architecture
+{
+    public class Startup
+    {
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+
+        public IConfiguration Configuration { get; }
+
+        // This method gets called by the runtime. Use this method to add services to the container.
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddControllers();
+            services.ResolveDbContext<PracticeContext>();
+            services.AddApplicationServices();
+            services.AddDomainServices();
+            ///Pls see the method AddPersistenceServices to decide what kind of connection do u want
+            services.AddPersistenceServices();
+
+            services.AddSwaggerGen( c => {
+                c.SwaggerDoc("vVersion", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Version = "vVersion",
+                    Title = "Practice architecture",
+                    Description = "Api Practice architecture"
+                });
+            });
+        }
+
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
+        }
+    }
+}

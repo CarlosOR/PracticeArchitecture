@@ -1,0 +1,16 @@
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Application.deps.json
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Application.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Application.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Application.Interfaces.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Domain.Interfaces.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Application.Interfaces.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Domain.Interfaces.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\bin\Debug\netcoreapp3.1\Practice.Architecture.Models.pdb
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.csprojAssemblyReference.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.AssemblyInfoInputs.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.AssemblyInfo.cs
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.csproj.CoreCompileInputs.cache
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.csproj.CopyComplete
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.dll
+E:\Workspace\Practice.Architecture\Practice.Architecture.Application\obj\Debug\netcoreapp3.1\Practice.Architecture.Application.pdb

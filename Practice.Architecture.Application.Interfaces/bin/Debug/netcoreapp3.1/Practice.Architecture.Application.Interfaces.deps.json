@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practice.Architecture.Application.Interfaces/1.0.0": {
+        "dependencies": {
+          "Practice.Architecture.Models": "1.0.0"
+        },
+        "runtime": {
+          "Practice.Architecture.Application.Interfaces.dll": {}
+        }
+      },
+      "Practice.Architecture.Models/1.0.0": {
+        "runtime": {
+          "Practice.Architecture.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice.Architecture.Application.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice.Architecture.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
